@@ -44,4 +44,4 @@ This project simulates basic banking operations such as deposit, withdrawal, bal
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/BankingSystem.git
+   git clone https://github.com/lokeswaram/BankingSystem.git
